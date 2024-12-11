@@ -45,8 +45,9 @@ Ensure the following software and tools are installed before setting up the proj
     langchain-text-splitters
     typing-extensions
     pydantic
-
+    ```
     Then run
+    
     ```bash
     pip install -r requirements.txt
 
